@@ -10,5 +10,5 @@ Attempt at using the KDD Data Mining Techniques to solve the problem given in th
 
 ## Team Members
 
-## Project Report 
-The project report can be found here.
+## Project Report and Notebook
+The project report can be found here and the notebook [here](https://www.kaggle.com/areezy/data-mining-project).
